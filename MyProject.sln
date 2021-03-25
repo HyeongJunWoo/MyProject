@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31112.23
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "hyoung.jw", "hyoung.jw", "{EFDFEFB5-0474-4730-B4E0-CC1EC991D3EC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_7568", "hyoung.jw\Problem_7568\Problem_7568.csproj", "{1F3FE2A6-6BA3-47DA-B8EB-5F0981211221}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lee0215", "lee0215", "{AF358180-DB65-4EE9-AB33-D27AA9A89555}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "messla", "messla", "{48EB4656-39DF-4AE4-9AE2-37AF4E882210}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
