@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31112.23
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "hyoung.jw", "hyoung.jw", "{EFDFEFB5-0474-4730-B4E0-CC1EC991D3EC}"
 EndProject
@@ -18,10 +18,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_7568", "lee0215\25 Mar\Practice_7568\Practice_7568.csproj", "{14B773A1-54D0-4E54-89F8-97906DF3E7F6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_10828", "messla\Problem_10828\Problem_10828.csproj", "{FEDFE0E0-F872-4121-888D-C82F550CB2C1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_10989", "Problem_10989\Problem_10989.csproj", "{F56B1124-955D-4F35-960E-2CFB6438908D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_10828", "Problem_10828\Problem_10828.csproj", "{578C93D1-4A16-4763-AA6E-B21685508D00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,14 +41,6 @@ Global
 		{FEDFE0E0-F872-4121-888D-C82F550CB2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEDFE0E0-F872-4121-888D-C82F550CB2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEDFE0E0-F872-4121-888D-C82F550CB2C1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F56B1124-955D-4F35-960E-2CFB6438908D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F56B1124-955D-4F35-960E-2CFB6438908D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F56B1124-955D-4F35-960E-2CFB6438908D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F56B1124-955D-4F35-960E-2CFB6438908D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{578C93D1-4A16-4763-AA6E-B21685508D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{578C93D1-4A16-4763-AA6E-B21685508D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{578C93D1-4A16-4763-AA6E-B21685508D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{578C93D1-4A16-4763-AA6E-B21685508D00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,8 +51,6 @@ Global
 		{559A1322-4BA8-4306-83EE-B81B547C70E4} = {807A0DA2-A474-45C5-B467-F71CE3EA3F46}
 		{14B773A1-54D0-4E54-89F8-97906DF3E7F6} = {807A0DA2-A474-45C5-B467-F71CE3EA3F46}
 		{FEDFE0E0-F872-4121-888D-C82F550CB2C1} = {48EB4656-39DF-4AE4-9AE2-37AF4E882210}
-		{F56B1124-955D-4F35-960E-2CFB6438908D} = {EFDFEFB5-0474-4730-B4E0-CC1EC991D3EC}
-		{578C93D1-4A16-4763-AA6E-B21685508D00} = {EFDFEFB5-0474-4730-B4E0-CC1EC991D3EC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {16840341-5A78-44AB-AA96-D4F9D0688CEE}
